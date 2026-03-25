@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395016183623",
+    "project_id": "bayimap-fbd41",
+    "storage_bucket": "bayimap-fbd41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395016183623:android:b7188d2f45e1d6ad237662",
+        "android_client_info": {
+          "package_name": "com.example.bayimap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6hasYVy4xPdet7tzQ9qXrb6Cwg-qVC34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
